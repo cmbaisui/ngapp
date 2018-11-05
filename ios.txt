@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"ios_version":"228","ios_url":"https:\/\/app.ng28.top:1688\/ios_update","applePlist_url":"https://raw.githubusercontent.com/zhangshan1688/ngapp/master/ios.plist","other":",0,http:\/\/app.qicai7770.com:9906","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"ios_version":"226","ios_url":"https:\/\/app.ng28.top:1688\/ios_update","applePlist_url":"https://raw.githubusercontent.com/zhangshan1688/ngapp/master/ios.plist","other":",0,http:\/\/app.qicai7770.com:9906","thirdLoginEnable":"0"}]}}
