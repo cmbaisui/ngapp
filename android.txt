@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"226","android_url":"http:\/\/app.zgtzqcw.com\/ng_228.apk","other":",0,http:\/\/app.qicai7770.com:9906","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"226","android_url":"http:\/\/app.zgtzqcw.com\/ng_228.apk","other":",0,https:\/\/app.ng28.vip","thirdLoginEnable":"0"}]}}
