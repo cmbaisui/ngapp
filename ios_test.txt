@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"ios_version":"226","ios_url":"http:\/\/r.ngyl777.com\/ios_update","applePlist_url":"https://raw.githubusercontent.com/zhangshan1688/ngapp/master/ios_test.plist","other":",1,http:\/\/apptest.ng717.com:9905","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"ios_version":"310","ios_url":"http:\/\/r.ngyl777.com\/ios_update","applePlist_url":"https://raw.githubusercontent.com/zhangshan1688/ngapp/master/ios_test.plist","other":",1,http:\/\/apptest.ng717.com:9905","thirdLoginEnable":"0"}]}}
