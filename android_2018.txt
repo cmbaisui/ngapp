@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"310","android_url":"http:\/\/milan.wangfenfen.com\/ng_310.apk","other":",0,aHR0cHM6Ly9hcHAubmcyOC5uZXQ6OTkwNSxodHRwczovL2FwcC5jaGFuZ3hpZXIuY29tLGh0dHBzOi8vYXBwLm5nMjgubmV0Ojk5MDU=","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"311","android_url":"http:\/\/milan.wangfenfen.com\/ng_310.apk","other":",0,aHR0cHM6Ly9hcHAubmcyOC5uZXQ6OTkwNSxodHRwczovL2FwcC5jaGFuZ3hpZXIuY29tLGh0dHBzOi8vYXBwLm5nMjgubmV0Ojk5MDU=","thirdLoginEnable":"0"}]}}
