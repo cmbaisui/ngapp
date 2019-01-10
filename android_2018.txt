@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"311","android_url":"http:\/\/milan.wangfenfen.com\/ng_311.apk","other":",0,aHR0cHM6Ly9hcHAubmdwYzEwLmNvbTo5OTA1LGh0dHBzOi8vYXBwLmNoYW5neGllci5jb20saHR0cHM6Ly9hcHAubmdwYzguY29tOjk5MDU=","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"311","android_url":"http:\/\/app.refine-fashion.com\/ng_311.apk","other":",0,aHR0cHM6Ly9hcHAubmdwYzEwLmNvbTo5OTA1LGh0dHBzOi8vYXBwLmNoYW5neGllci5jb20saHR0cHM6Ly9hcHAubmdwYzguY29tOjk5MDU=","thirdLoginEnable":"0"}]}}
