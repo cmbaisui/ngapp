@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"401","android_url":"http:\/\/app.jinhealthcare.org\/ng_401.apk","other":",0,aHR0cHM6Ly9hcHAubmdwYzEwLmNvbTo5OTA1LGh0dHBzOi8vYXBwLmNoYW5neGllci5jb20saHR0cHM6Ly9hcHAubmdwYzguY29tOjk5MDU=","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"401","android_url":"http:\/\/app.jinhealthcare.org\/ng_401.apk","other":",0,aHR0cHM6Ly9hcHAubmcxMDUuY29tLGh0dHBzOi8vYXBwLmNoYW5neGllci5jb20saHR0cHM6Ly9hcHAubmdwYzguY29tOjk5MDU=","thirdLoginEnable":"0"}]}}
