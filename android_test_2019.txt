@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"402","android_url":"http:\/\/app.zgtzqcw.com\/app_201.apk","other":",1,aHR0cDovL2FwcHRlc3Qubmc3MTcuY29tOjk5MDUsaHR0cHM6Ly93d3cuYmFpZHUuY29tLGh0dHA6Ly8xOTIuMTY4LjEuOTY6MTY4OA==","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"403","android_url":"http:\/\/app.zgtzqcw.com\/app_201.apk","other":",1,aHR0cDovL2FwcHRlc3Qubmc3MTcuY29tOjk5MDUsaHR0cHM6Ly93d3cuYmFpZHUuY29tLGh0dHA6Ly8xOTIuMTY4LjEuOTY6MTY4OA==","thirdLoginEnable":"0"}]}}
